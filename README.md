@@ -1,16 +1,41 @@
-## Hi there 👋
+# 🦥 WHAT I KNOW AS A FLUTTER DEVELOPER
 
-<!--
-**codemepranav/codemepranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><img src="https://cdn.dribbble.com/userupload/8694511/file/original-e00bd59bbe55e61f66f4370870333c12.png?resize=1905x899" ></p>
 
-Here are some ideas to get you started:
+CLEAN ARCHITECTURE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- production folder 📂 structuring
+- smart error handling 🐌 in methods with dartz
+- single responsibility principle
+- less mofifiable widget
+- maintainable code writing
+- dependency injection 💉 with getIt
+- caching with Hive
+
+DATABASES
+
+- Remote database operation with Firebase 🔥 Application
+- Local Database operation with Hive
+- Know operations of 😴 Rest APIs
+- push notification with firebase messaging 💬
+- Familier with razorpay and googleMap APIs
+
+STATE MANAGEMENT WITH BLoC
+
+- clean cubit code </>
+- smart state utilization
+- familier with 💧 hydrated_bloc
+
+GIT BEHAVIOUR
+
+- familer and proficient with almost all tools of version control
+
+UI BUILDING
+
+- expertise in all kind of widgets including third parties 🦝
+- milinieal designs with good color palleating
+- theme management ⛅
+
+PROJECTS
+
+- built but not yet uploaded ...
